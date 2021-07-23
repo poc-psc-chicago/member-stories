@@ -9,7 +9,8 @@ link: https://www.linkedin.com/company/presalescollective/
 
 * * *
 
-![Photo](https://github.com/poc-psc-chicago/member-stories/blob/main/img/psc_logo.jpeg?raw=true)
+
+<img src="./img/psc_logo.jpeg?" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 #### Question
