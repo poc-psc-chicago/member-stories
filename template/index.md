@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-![Photo](https://github.com/poc-psc-chicago/member-stories/blob/main/img/psc_logo.jpeg)
+![Photo](https://github.com/poc-psc-chicago/member-stories/blob/main/img/psc_logo.jpeg?raw=true)
 ![Photo](/img/psc_logo.jpeg)
 
 
