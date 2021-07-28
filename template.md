@@ -1,10 +1,10 @@
 ---
 layout: default
-title: FirstName LastName
-description: Spend some time with FirstName LastName from X Company
+title: PSC Member Stories - Jane Doe
+description: Spend some time with Jane Doe from X Company
 ---
 
-### FirstName LastName
+### Jane Doe - Senior Solutions Engineer at Contoso
 
 * * *
 
