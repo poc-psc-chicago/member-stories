@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Ryan Kruger
-description: Spend some time with Ryan Kruger from NetSuite
+title: Ryan Krueger
+description: Spend some time with Ryan Krueger from NetSuite
 
 ---
 
-### Ryan Kruger
+### Ryan Krueger
 
 * * *
 

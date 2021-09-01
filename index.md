@@ -3,7 +3,7 @@ layout: default
 ---
 ## Welcome to PSC Chicago Member Stories
 
-[A Q&A with Jane Doe](./template.html). - Template
+[A Q&A with Ryan Krueger](./posts/ryanKrueger.html). 
 
 
 
