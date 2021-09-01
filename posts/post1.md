@@ -10,7 +10,7 @@ description: Spend some time with Ryan Kruger from NetSuite
 * * *
 
 
-<img src="./img/RyanKruegar.jpeg?" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="../img/RyanKruegar.jpeg?" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 #### Tell us a little bit about your background and where are you from well as your schooling like?
