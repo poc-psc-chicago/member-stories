@@ -50,4 +50,4 @@ description: Spend some time with Ryan Krueger from NetSuite
 > Well, the number one thing would be tailgating at Soldier Field. But there's a great Costa Rican restaurant in Bucktown called Irazu that’s amazing. I think it's one of the best food places in the entire city. It’s one of my favorite places to eat at. So I would recommend it to anybody visiting Chicago, that would be a spot. Once I'm back in the city that will be one of the first places I’m going. I really like Small Cheval, that's awesome really great food there. Barwise, I lived in Old Town for a few years, so I love just walking up and down Wells Steet, jumping from bar to bar, you can always get together with a few friends. Keep everybody on their toes by saying, “Alright, we're going to wrap up here we're going to the next one!” 
 
 
-[back](./)
+[back](../)
